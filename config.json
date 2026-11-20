@@ -28,9 +28,9 @@
   "_legendas": "Lista de textos sobre o vídeo. inicio e fim são em SEGUNDOS. Se você REMOVER inicio e fim de todas, elas trocam sozinhas a cada legendas_intervalo_segundos. Para adicionar: copie uma linha { ... } e coloque uma vírgula entre elas (a última não leva vírgula).",
   "legendas": [
     { "texto": "Acesso liberado para membros.",                      "inicio": 1,  "fim": 5 },
-    { "texto": "Nós fazemos isso juntos.",                               "inicio": 6,  "fim": 10 },
-    { "texto": "Obrigado por fazer parte do nosso time.",                "inicio": 11, "fim": 15 },
-    { "texto": "Proucurando os Arquivos? Acesse:\"arquivos\" ",     "inicio": 16, "fim": 20 }
+    { "texto": "É bom saber que você passou por aqui.",                               "inicio": 6,  "fim": 10 },
+    { "texto": "Fico feliz que tenha encontrado esse caminho",                "inicio": 11, "fim": 15 },
+    { "texto": "Proucurando os Arquivos? Acesse:\"Downloads\" ",     "inicio": 16, "fim": 20 }
   ],
 
   "_legendas_intervalo_segundos": "Tempo de cada legenda no modo automático (quando não há inicio/fim).",
