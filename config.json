@@ -2,7 +2,7 @@
   "_COMO_EDITAR": "Edite só os valores entre aspas ou números. Chaves que começam com _ são comentários e são ignoradas. Cuidado para não apagar vírgulas, aspas ou chaves.",
 
   "_titulo": "Texto grande no topo da página.",
-  "titulo": "Bem-vindo ao meu espaço",
+  "titulo": "Acesso liberado para Administradores e Membros",
 
   "_subtitulo": "Texto menor logo abaixo do título. Deixe \"\" para esconder.",
   "subtitulo": "Vídeo em tela cheia, legendas e downloads em uma única página.",
@@ -20,7 +20,7 @@
   "musica": "midia/musica.mp3",
 
   "_musica_volume": "Volume da música, de 0 (mudo) a 1 (máximo). 0.18 = baixo, sutil e discreto, mas audível. Ela entra suavemente.",
-  "musica_volume": 0.18,
+  "musica_volume": 0.12,
 
   "_musica_tocar_ao_abrir": "true = tenta tocar assim que a página abre. Muitos navegadores bloqueiam som automático; nesse caso ela começa no primeiro toque/clique do visitante. false = só toca quando o visitante apertar a bolinha de som.",
   "musica_tocar_ao_abrir": true,
@@ -29,8 +29,8 @@
   "legendas": [
     { "texto": "Acesso liberado para membros.",                      "inicio": 1,  "fim": 5 },
     { "texto": "Nós fazemos isso juntos.",                               "inicio": 6,  "fim": 10 },
-    { "texto": "Obrigado por fazer parte do nosso time",                "inicio": 11, "fim": 15 },
-    { "texto": "Proucurando os Dowloads? Acesse: \"arquivos\" ",     "inicio": 16, "fim": 20 }
+    { "texto": "Obrigado por fazer parte do nosso time.",                "inicio": 11, "fim": 15 },
+    { "texto": "Proucurando os Arquivos? Acesse:\"arquivos\" ",     "inicio": 16, "fim": 20 }
   ],
 
   "_legendas_intervalo_segundos": "Tempo de cada legenda no modo automático (quando não há inicio/fim).",
@@ -40,10 +40,10 @@
   "mostrar_gerenciar": true,
 
   "_texto_botao_arquivos": "Texto do botão que abre a lista de downloads.",
-  "texto_botao_arquivos": "Arquivos",
+  "texto_botao_arquivos": "Dowloads",
 
   "_cor_destaque": "Cor do botão principal, em hexadecimal.",
-  "cor_destaque": "#7c5cff",
+  "cor_destaque": "074eab",
 
   "_pasta_arquivos": "Pasta do repositório cujo conteúdo vira a lista de downloads.",
   "pasta_arquivos": "arquivos",
