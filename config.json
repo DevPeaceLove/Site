@@ -8,7 +8,7 @@
   "subtitulo": "Vídeo em tela cheia, legendas e downloads em uma única página.",
 
   "_video": "Link do YouTube (ex.: https://www.youtube.com/watch?v=XXXXXXXXXXX) OU caminho de um mp4 na pasta midia (ex.: midia/video.mp4). Deixe \"\" para usar o fundo animado.",
-  "video": "https://www.youtube.com/watch?v=HrwTD5q-rMo",
+  "video": "",
 
   "_video_mudo_inicial": "true = começa mudo (obrigatório na prática: navegadores bloqueiam autoplay com som). O visitante liga o som pelo botão.",
   "video_mudo_inicial": true,
