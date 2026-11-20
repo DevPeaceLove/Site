@@ -43,7 +43,7 @@
   "texto_botao_arquivos": "Dowloads",
 
   "_cor_destaque": "Cor do botão principal, em hexadecimal.",
-  "cor_destaque": "074eab",
+  "cor_destaque": "#074eab",
 
   "_pasta_arquivos": "Pasta do repositório cujo conteúdo vira a lista de downloads.",
   "pasta_arquivos": "arquivos",
