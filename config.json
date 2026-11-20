@@ -5,7 +5,7 @@
   "titulo": "Acesso liberado para Administradores e Membros",
 
   "_subtitulo": "Texto menor logo abaixo do título. Deixe \"\" para esconder.",
-  "subtitulo": "Vídeo em tela cheia, legendas e downloads em uma única página.",
+  "subtitulo": "Seja bem-vindo(a).Este é um espaço simples feito para facilitar o acesso a arquivos e downloads. Aqui você encontra links organizados, diretos e sem enrolação.Fique à vontade para explorar no seu tempo. Se precisar de algo específico ou tiver alguma dúvida, pode deixar um feedback. O objetivo é que sua visita seja prática e sem complicação.",
 
   "_video": "Link do YouTube (ex.: https://www.youtube.com/watch?v=XXXXXXXXXXX) OU caminho de um mp4 na pasta midia (ex.: midia/video.mp4). Deixe \"\" para usar o fundo animado.",
   "video": "",
@@ -29,7 +29,7 @@
   "legendas": [
     { "texto": "Acesso liberado para membros.",                      "inicio": 1,  "fim": 5 },
     { "texto": "É bom saber que você passou por aqui.",                               "inicio": 6,  "fim": 10 },
-    { "texto": "Fico feliz que tenha encontrado esse caminho",                "inicio": 11, "fim": 15 },
+    { "texto": "Fico feliz que tenha escolhido essa rota.",                "inicio": 11, "fim": 15 },
     { "texto": "Proucurando os Arquivos? Acesse:\"Downloads\" ",     "inicio": 16, "fim": 20 }
   ],
 
